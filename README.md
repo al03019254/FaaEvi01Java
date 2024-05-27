@@ -3,20 +3,17 @@ Este proyecto es desarrollado por el alumno Fernando Arias Alvarado, solicitado 
 Este consiste en el desarrollo de una aplicacion de un consultorio medico en el cual nos permite tener un control o registro de los pacientes, doctores y citas con el objetivo final de mejorar los procesos administrativos de la misma clinica.
 
 ## Instalación y configuración
-El sistema necesita Java para correr, se puede descargar desde
+El equipo de computo requiere Java para ejecutarse, se puede adquirir sin costo realizando un registro previo en la siguiente pagina:
 https://www.oracle.com/technetwork/es/java/javase/downloads/index.html
 
 ## Uso del programa
-El programa deberá poder realizar
-las siguientes acciones:
-- Dar de alta doctores.
-- Dar de alta pacientes.
-- Crear una cita con fecha y hora.
-- Relacionar una cita con un doctor y un paciente.
-- Tener control de acceso mediante administradores, esto es,
-  solo ciertos usuarios podrán acceder al sistema mediante un
-  identificador y una contraseña.
-- Usuario: Tecmilenio Contraseña: Java12345 (para ejecutar programa).
+El software computacional se podra emplear para las siguientes actividades:
+- Registro de Pacientes.
+- Registro de Doctores.
+- Generacion de Citas.
+- Registro amplio de informacion como (Fecha/Hora, Paciente y Doctor asignado).
+- Acceso a traves de Nombre Usuario y Contraseña.
+- Usuario Administrador: Tecmilenio Contraseña: Java12345 (para ejecutar programa).
 
 ## Creditos
 Desarrollador - Prox. Ing. Fernando Arias Alvarado, estudiante de la carrera profesional Ingenieria en Computacion Administrativa.
